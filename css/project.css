@@ -188,7 +188,8 @@
   
   /* Style the header */
   .header {
-    background-color: none;
+    background-color: #043f5d;
+    color: #fff;
     padding: 20px;
     padding-top: 120px;
     text-align: center;
@@ -232,3 +233,4 @@ text-align: center;
     padding-left: 100px;
     padding-right: 100px;
   }
+ 
