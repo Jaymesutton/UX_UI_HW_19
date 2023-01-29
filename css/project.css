@@ -208,9 +208,6 @@
     padding-top: 50px;
     padding-right: 50px;
   }
-  .column img{
-    padding-left: 20px;
-  }
   
   /* Clear floats after the columns */
   .row:after {
@@ -225,6 +222,12 @@
       width: 100%;
     }
   }
+  .sectionTitle{
+    text-align: center;
+    background-color: #043f5d;
+    color: white;
+  }
+  
   .brainstorming h2{
 text-align: center;
 background-color: #043f5d;
@@ -258,10 +261,11 @@ color: white;
   }
   .image-holder {
     text-align: center;
+    
  }
  .jumbotron{
     background-color: #fff;
-    padding: 20px;
+   
  }
  .style h3{
     text-align: left;
@@ -273,4 +277,4 @@ color: white;
     padding-left: 100px;
     padding-right: 100px;
   }
- 
+  
