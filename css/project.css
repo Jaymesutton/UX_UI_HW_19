@@ -10,6 +10,11 @@
   }
   body {
     margin: 0;
+    font-family: Montserrat, sans-serif;
+    color: #1a1b1f;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
   }
 .html{
     font-size: 40%;
@@ -195,7 +200,7 @@
     text-align: center;
   }
   
- /* Create three equal columns that floats next to each other */
+ /* Two equal columns */
   .column {
     float: left;
     width: 50%;
@@ -222,6 +227,8 @@
   }
   .brainstorming h2{
 text-align: center;
+background-color: #043f5d;
+color: white;
   }
   .brainstorming h3{
     text-align: left;
@@ -229,6 +236,39 @@ text-align: center;
     padding-right: 100px;
       }
   .brainstorming p{
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .competitor{
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+    padding-left: 400;
+    padding-right: 400;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    
+  }
+  ul {
+    padding-left: 60px;
+    
+  }
+  .image-holder {
+    text-align: center;
+ }
+ .jumbotron{
+    background-color: #fff;
+    padding: 20px;
+ }
+ .style h3{
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
+      }
+  .style p{
     text-align: left;
     padding-left: 100px;
     padding-right: 100px;
